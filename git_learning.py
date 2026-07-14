@@ -1,7 +1,4 @@
 print("akash")
 print("homies")
-print("hello")
-print("world")
-print("python")
-print("akash1")
-print("akash2")
+for i in range(5):
+    print("akash3")
