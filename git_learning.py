@@ -1,2 +1,5 @@
 print("akash")
 print("homies")
+print("hello")
+print("world")
+print("python")
