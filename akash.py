@@ -7,3 +7,4 @@ print('End of script.')
 if 'akash' in homies:
     print('akash is homies')
 print(f'is it too late to became{homies}')
+print('This is the end of the script.')
